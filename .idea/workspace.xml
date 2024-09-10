@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d396bf3-f2b8-4cdb-88a8-ef2c1b82ce95" name="Changes" comment="start">
+    <list default="true" id="1d396bf3-f2b8-4cdb-88a8-ef2c1b82ce95" name="Changes" comment="new files">
+      <change afterPath="$PROJECT_DIR$/src/loopar/Stars1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loopar/Stars2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/start/Rik.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uppgifter/sida46upp4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uppgifter/sida46upp4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +52,12 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.Read.executor": "Run",
+    "Application.Rik.executor": "Run",
+    "Application.Stars1.executor": "Run",
+    "Application.Stars2.executor": "Run",
     "Application.Start.executor": "Run",
     "Application.Triangel.executor": "Run",
+    "Application.sida46upp4.executor": "Run",
     "Application.start.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -83,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724746024825</updated>
-      <workItem from="1724746025841" duration="20610000" />
+      <workItem from="1724746025841" duration="36233000" />
     </task>
     <task id="LOCAL−00001" summary="start">
       <option name="closed" value="true" />
@@ -120,7 +128,14 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1725354259019</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="new files">
+      <option name="closed" value="true" />
+      <created>1725354318965</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1725354318965</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,7 +181,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
