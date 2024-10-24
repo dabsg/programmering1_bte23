@@ -1,9 +1,24 @@
 package tid;
 
+import java.util.Scanner;
+
 public class Tidpunkt {
 
     private int h,m,s;
 
+    public Tidpunkt(int hh, int mm, int ss) {
+
+        this.h = hh;
+        this.m = mm;
+        this.s = ss;
+
+    }
+    public Tidpunkt(int hh){
+
+        this.h = hh;
+        this.m = 0;
+        this.s = 0;
+    }
 
 
     public void setTime(int hh, int mm, int ss) {
@@ -21,6 +36,7 @@ public class Tidpunkt {
     }
 
     public String getTime(){
+
 
         String time= h+":"+m+":"+s;
         return time;
@@ -43,17 +59,25 @@ public class Tidpunkt {
 
     }
 
+    public String getHour(){
+
+        String hour=""+h;
+        return hour;
+    }
+
 
 
 
     public static void main(String[] args) {
-        Tidpunkt t=new Tidpunkt();
+
+        Tidpunkt t=new Tidpunkt(12);
+
         t.setTime(23,59,59);
         t.addSec();
         String time=t.getTime();
         System.out.println(time);
 
-        Tidpunkt t2=new Tidpunkt();
+        Tidpunkt t2=new Tidpunkt(12);
         t2.setTime(22,78,22);
         t2.addSec();
         String time2=t2.getTime();

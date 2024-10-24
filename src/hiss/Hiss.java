@@ -5,6 +5,24 @@ public class Hiss {
     private int riktning=0;
     private int våning=0;
 
+   public Hiss() {
+
+   }
+
+   public Hiss(int v){
+
+       våning= v;
+
+    }
+    public Hiss(int v , int r){
+       riktning=r;
+       våning=v;
+
+    }
+
+
+
+
     public void ändravåning(int vv){
 
       if(våning <vv) {

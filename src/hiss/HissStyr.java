@@ -5,7 +5,7 @@ public class HissStyr {
     public static void main(String[] args) {
 
 
-        Hiss h1=new Hiss(); // skapar referensvariabeln h1 av typen hiss lägger in ett hiss objekt
+        Hiss h1=new Hiss(12,-1); // skapar referensvariabeln h1 av typen hiss lägger in ett hiss objekt
 
         int v=h1.getVåning();
         System.out.println(v);

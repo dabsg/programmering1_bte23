@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d396bf3-f2b8-4cdb-88a8-ef2c1b82ce95" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/src/tid/Tidpunkt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tid/klocka.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hiss/Hiss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hiss/Hiss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hiss/HissStyr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hiss/HissStyr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tid/Tidpunkt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tid/Tidpunkt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,68 +27,70 @@
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dabsg"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dabsg&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dabsg/programmering1_bte23",
-    "accountId": "8b0ecbc6-c87c-483f-8587-24f98245cf6a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dabsg/programmering1_bte23&quot;,
+    &quot;accountId&quot;: &quot;8b0ecbc6-c87c-483f-8587-24f98245cf6a&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2lEX5G6FlngzriYDLvS4STpvnnU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Backwards.executor": "Run",
-    "Application.Cesar.executor": "Run",
-    "Application.Chartest.executor": "Run",
-    "Application.Divisionrest.executor": "Run",
-    "Application.Encrypte.executor": "Run",
-    "Application.HissStyr.executor": "Run",
-    "Application.Kassasystem.executor": "Run",
-    "Application.Lektion.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Read.executor": "Run",
-    "Application.Rik.executor": "Run",
-    "Application.Siffror.executor": "Run",
-    "Application.Stars1.executor": "Run",
-    "Application.Stars2.executor": "Run",
-    "Application.Start.executor": "Run",
-    "Application.Tidpunkt.executor": "Run",
-    "Application.Triangel.executor": "Run",
-    "Application.bank_program.executor": "Run",
-    "Application.bråktal.executor": "Run",
-    "Application.grafik1.executor": "Run",
-    "Application.kalkylator.executor": "Run",
-    "Application.sida46upp4.executor": "Run",
-    "Application.start.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/danand004/git/repository3/programmering1_bte23/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Backwards.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cesar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Chartest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Clock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Divisionrest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encrypte.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HissStyr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kassasystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lektion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Read.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rik.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Siffror.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stars1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stars2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Start.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tidpunkt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Triangel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bank_program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bråktal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.grafik1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kalkylator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.klocka.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sida46upp4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.start.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/danand004/git/repository3/programmering1_bte23/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -102,7 +107,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724746024825</updated>
-      <workItem from="1724746025841" duration="89991000" />
+      <workItem from="1724746025841" duration="95476000" />
+      <workItem from="1729680802449" duration="4127000" />
+      <workItem from="1729774892095" duration="780000" />
     </task>
     <task id="LOCAL−00001" summary="start">
       <option name="closed" value="true" />
@@ -188,7 +195,14 @@
       <option name="presentableId" value="LOCAL−00012" />
       <updated>1728474012429</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL−00013" summary="new files">
+      <option name="closed" value="true" />
+      <created>1728893785463</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1728893785464</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
