@@ -5,11 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d396bf3-f2b8-4cdb-88a8-ef2c1b82ce95" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/src/tid/klocka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AI/Aitest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stringtest/String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayer/Biggest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayer/arrtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grafik/SwitchText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objektorientering/Rektangel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objektorientering/överlagring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uppgifter/Förekomst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uppgifter/Kort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hiss/Hiss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hiss/Hiss.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hiss/HissStyr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hiss/HissStyr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tid/Tidpunkt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tid/Tidpunkt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmering1_bte23.iml" beforeDir="false" afterPath="$PROJECT_DIR$/programmering1_bte23.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uppgifter/Sida90upp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uppgifter/Sida90upp1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,49 +61,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Backwards.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cesar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Chartest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Clock.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Divisionrest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encrypte.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HissStyr.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Kassasystem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lektion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Read.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rik.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Siffror.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stars1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stars2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Start.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tidpunkt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Triangel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bank_program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bråktal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.grafik1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.kalkylator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.klocka.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sida46upp4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.start.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/danand004/git/repository3/programmering1_bte23/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Aitest.executor": "Run",
+    "Application.Backwards.executor": "Run",
+    "Application.Biggest.executor": "Run",
+    "Application.Cesar.executor": "Run",
+    "Application.Chartest.executor": "Run",
+    "Application.Clock.executor": "Run",
+    "Application.Divisionrest.executor": "Run",
+    "Application.Encrypte.executor": "Run",
+    "Application.Förekomst.executor": "Run",
+    "Application.HissStyr.executor": "Run",
+    "Application.Kassasystem.executor": "Run",
+    "Application.Lektion.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Read.executor": "Run",
+    "Application.Rektangel.executor": "Run",
+    "Application.Rik.executor": "Run",
+    "Application.Sida90upp1.executor": "Run",
+    "Application.Siffror.executor": "Run",
+    "Application.Stars1.executor": "Run",
+    "Application.Stars2.executor": "Run",
+    "Application.Start.executor": "Run",
+    "Application.String1.executor": "Run",
+    "Application.SwitchText.executor": "Run",
+    "Application.Tidpunkt.executor": "Run",
+    "Application.Triangel.executor": "Run",
+    "Application.arrtest.executor": "Run",
+    "Application.bank_program.executor": "Run",
+    "Application.bråktal.executor": "Run",
+    "Application.grafik1.executor": "Run",
+    "Application.kalkylator.executor": "Run",
+    "Application.klocka.executor": "Run",
+    "Application.sida46upp4.executor": "Run",
+    "Application.start.executor": "Run",
+    "Application.överlagring.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/danand004/git/repository3/programmering1_bte23/untitled/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -109,7 +132,7 @@
       <updated>1724746024825</updated>
       <workItem from="1724746025841" duration="95476000" />
       <workItem from="1729680802449" duration="4127000" />
-      <workItem from="1729774892095" duration="780000" />
+      <workItem from="1729774892095" duration="47115000" />
     </task>
     <task id="LOCAL−00001" summary="start">
       <option name="closed" value="true" />
@@ -202,7 +225,14 @@
       <option name="presentableId" value="LOCAL−00013" />
       <updated>1728893785464</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL−00014" summary="new files">
+      <option name="closed" value="true" />
+      <created>1729777149402</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1729777149402</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +280,17 @@
     <MESSAGE value="start" />
     <MESSAGE value="new files" />
     <option name="LAST_COMMIT_MESSAGE" value="new files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/untitled/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
