@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d396bf3-f2b8-4cdb-88a8-ef2c1b82ce95" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AI/Aitest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stringtest/String1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayer/Biggest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayer/arrtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/grafik/SwitchText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objektorientering/Rektangel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objektorientering/överlagring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uppgifter/Förekomst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uppgifter/Kort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grafik/IhopSkrivning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grafik/SwitchText2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grafik/SwitchText3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmering1_bte23.iml" beforeDir="false" afterPath="$PROJECT_DIR$/programmering1_bte23.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uppgifter/Sida90upp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uppgifter/Sida90upp1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grafik/SwitchText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grafik/SwitchText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +60,7 @@
     "Application.Encrypte.executor": "Run",
     "Application.Förekomst.executor": "Run",
     "Application.HissStyr.executor": "Run",
+    "Application.IhopSkrivning.executor": "Run",
     "Application.Kassasystem.executor": "Run",
     "Application.Lektion.executor": "Run",
     "Application.Main.executor": "Run",
@@ -132,7 +120,8 @@
       <updated>1724746024825</updated>
       <workItem from="1724746025841" duration="95476000" />
       <workItem from="1729680802449" duration="4127000" />
-      <workItem from="1729774892095" duration="47115000" />
+      <workItem from="1729774892095" duration="48679000" />
+      <workItem from="1736945502644" duration="1661000" />
     </task>
     <task id="LOCAL−00001" summary="start">
       <option name="closed" value="true" />
@@ -232,7 +221,14 @@
       <option name="presentableId" value="LOCAL−00014" />
       <updated>1729777149402</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL−00015" summary="new files">
+      <option name="closed" value="true" />
+      <created>1736760223851</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1736760223851</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
