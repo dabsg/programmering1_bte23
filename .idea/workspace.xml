@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d396bf3-f2b8-4cdb-88a8-ef2c1b82ce95" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/src/grafik/Bildvisare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/grafik/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bild2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bild1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/bild1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grafik/Bildvisare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grafik/Bildvisare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "Application.Aitest.executor": "Run",
     "Application.Backwards.executor": "Run",
     "Application.Biggest.executor": "Run",
+    "Application.Bildvisare.executor": "Run",
     "Application.Cesar.executor": "Run",
     "Application.Chartest.executor": "Run",
     "Application.Clock.executor": "Run",
@@ -101,6 +103,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\danand004\git\repository3\programmering1_bte23" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -120,7 +127,7 @@
       <workItem from="1724746025841" duration="95476000" />
       <workItem from="1729680802449" duration="4127000" />
       <workItem from="1729774892095" duration="48679000" />
-      <workItem from="1736945502644" duration="6511000" />
+      <workItem from="1736945502644" duration="7943000" />
     </task>
     <task id="LOCAL−00001" summary="start">
       <option name="closed" value="true" />
@@ -234,7 +241,14 @@
       <option name="presentableId" value="LOCAL−00016" />
       <updated>1736947525184</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL−00017" summary="new files">
+      <option name="closed" value="true" />
+      <created>1737364143806</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1737364143806</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

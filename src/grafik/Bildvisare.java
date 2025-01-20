@@ -6,6 +6,8 @@ import java.awt.event.ActionListener;
 
 public class Bildvisare {
 
+    int bildNu=1;
+
     JFrame frame = new JFrame();
     JButton button = new JButton("Bildvisar");
     JLabel label = new JLabel("bild1",new ImageIcon("bild1.jpg"),JLabel.CENTER);
@@ -21,7 +23,14 @@ public class Bildvisare {
 
         button.addActionListener(e->{
 
-            label.setIcon(new ImageIcon("bild2.jpg"));
+            if( bildNu==1){
+
+                label.setIcon(new ImageIcon("bild2.jpg"));
+                bildNu=2;
+            }else if(bildNu==2){
+                label.setIcon(new ImageIcon("bild1.jpg"));
+                bildNu=1;
+            }
 
         });
 
