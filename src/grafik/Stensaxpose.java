@@ -23,9 +23,9 @@ public class Stensaxpose {
 
             int dator=(int)(Math.random() *3)+1;
 
-            if(dator==1  &&  (1==1 || 1==0)   <   >   ==   1!=0  ){
+            if(dator==1   ){
                 System.out.println("datorn vann");
-            } if(){
+            } if(1==1){
                 System.out.println("du vann");
             }else{
                 System.out.println("lika");

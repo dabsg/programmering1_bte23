@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d396bf3-f2b8-4cdb-88a8-ef2c1b82ce95" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/src/grafik/Stensaxpose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grafik_egen/Boll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grafik_egen/figurtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grafik_egen/flerabollar/Boll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grafik_egen/flerabollar/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grafik/Stensaxpose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grafik/Stensaxpose.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +55,14 @@
     "Application.Backwards.executor": "Run",
     "Application.Biggest.executor": "Run",
     "Application.Bildvisare.executor": "Run",
+    "Application.Boll.executor": "Run",
     "Application.Cesar.executor": "Run",
     "Application.Chartest.executor": "Run",
     "Application.Clock.executor": "Run",
     "Application.Divisionrest.executor": "Run",
     "Application.Encrypte.executor": "Run",
     "Application.Förekomst.executor": "Run",
+    "Application.Game.executor": "Run",
     "Application.HissStyr.executor": "Run",
     "Application.IhopSkrivning.executor": "Run",
     "Application.Kassasystem.executor": "Run",
@@ -79,6 +85,7 @@
     "Application.arrtest.executor": "Run",
     "Application.bank_program.executor": "Run",
     "Application.bråktal.executor": "Run",
+    "Application.figurtest.executor": "Run",
     "Application.grafik1.executor": "Run",
     "Application.kalkylator.executor": "Run",
     "Application.klocka.executor": "Run",
@@ -127,7 +134,8 @@
       <workItem from="1729680802449" duration="4127000" />
       <workItem from="1729774892095" duration="48679000" />
       <workItem from="1736945502644" duration="8731000" />
-      <workItem from="1741606568136" duration="10841000" />
+      <workItem from="1741606568136" duration="16160000" />
+      <workItem from="1743595489588" duration="15921000" />
     </task>
     <task id="LOCAL−00001" summary="start">
       <option name="closed" value="true" />
@@ -255,7 +263,14 @@
       <option name="presentableId" value="LOCAL−00018" />
       <updated>1737365799714</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL−00019" summary="new files">
+      <option name="closed" value="true" />
+      <created>1742389882121</created>
+      <option name="number" value="LOCAL−00019" />
+      <option name="presentableId" value="LOCAL−00019" />
+      <updated>1742389882121</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
