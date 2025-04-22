@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d396bf3-f2b8-4cdb-88a8-ef2c1b82ce95" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/src/grafik_egen/Majblomma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/grafik_egen/majblommaloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grafik_egen/Pacman.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +65,7 @@
     "Application.Lektion.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Majblomma.executor": "Run",
+    "Application.Pacman.executor": "Run",
     "Application.Radio.executor": "Run",
     "Application.Read.executor": "Run",
     "Application.Rektangel.executor": "Run",
@@ -134,7 +134,7 @@
       <workItem from="1729774892095" duration="48679000" />
       <workItem from="1736945502644" duration="8731000" />
       <workItem from="1741606568136" duration="16160000" />
-      <workItem from="1743595489588" duration="23274000" />
+      <workItem from="1743595489588" duration="31875000" />
     </task>
     <task id="LOCAL−00001" summary="start">
       <option name="closed" value="true" />
@@ -276,7 +276,14 @@
       <option name="presentableId" value="LOCAL−00020" />
       <updated>1744096700574</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL−00021" summary="new files">
+      <option name="closed" value="true" />
+      <created>1744290891928</created>
+      <option name="number" value="LOCAL−00021" />
+      <option name="presentableId" value="LOCAL−00021" />
+      <updated>1744290891929</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
