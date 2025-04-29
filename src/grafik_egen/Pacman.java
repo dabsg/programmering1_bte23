@@ -33,6 +33,8 @@ public class Pacman extends JComponent implements KeyListener {
         g.fillOval(pacx,pacy,100,100);
         g.setColor(this.getBackground());
         g.fillPolygon(x,y,3);
+        g.setColor(Color.BLACK);
+        g.drawString("hej",200,400);
 
     }
 
