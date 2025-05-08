@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d396bf3-f2b8-4cdb-88a8-ef2c1b82ce95" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/src/grafik_egen/JcomSwingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/grafik_egen/JcompSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grafik/Moms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/grafik_egen/Pacman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grafik_egen/Pacman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grafik_egen/JcomSwingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grafik_egen/JcomSwingController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +67,7 @@
     "Application.Lektion.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Majblomma.executor": "Run",
+    "Application.Moms.executor": "Run",
     "Application.Pacman.executor": "Run",
     "Application.Radio.executor": "Run",
     "Application.Read.executor": "Run",
@@ -138,7 +138,8 @@
       <workItem from="1736945502644" duration="8731000" />
       <workItem from="1741606568136" duration="16160000" />
       <workItem from="1743595489588" duration="33329000" />
-      <workItem from="1745921083593" duration="1351000" />
+      <workItem from="1745921083593" duration="5857000" />
+      <workItem from="1746709206993" duration="2614000" />
     </task>
     <task id="LOCAL−00001" summary="start">
       <option name="closed" value="true" />
@@ -294,7 +295,14 @@
       <option name="presentableId" value="LOCAL−00022" />
       <updated>1745320172278</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL−00023" summary="new files">
+      <option name="closed" value="true" />
+      <created>1745922695299</created>
+      <option name="number" value="LOCAL−00023" />
+      <option name="presentableId" value="LOCAL−00023" />
+      <updated>1745922695299</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
